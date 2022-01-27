@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ajay0024/four-card-feature-section-master)
-- Live Site URL: [Add live site URL here](https://ajay0024.github.io/four-card-feature-section-master)
+- Solution URL: [https://github.com/ajay0024/four-card-feature-section-master](https://github.com/ajay0024/four-card-feature-section-master)
+- Live Site URL: [https://ajay0024.github.io/four-card-feature-section-master](https://ajay0024.github.io/four-card-feature-section-master)
 
 ## My process
 I used flexbox with keeping in mind mobile-first workflow.
